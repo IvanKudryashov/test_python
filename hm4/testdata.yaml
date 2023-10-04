@@ -5,9 +5,9 @@ sleep_time: 1
 login: matvey44
 pswd: aa5e13a96f
 
-title: WebDriver
-description: Selenium WebDriver is a programming interface that can be used to create and execute test cases.
-content: Think of a WebDriver as a mediator, something that allows two things to interact. Imagine there are two people who cannot speak the same language. One of them has interesting and useful things to say, but can not get their point across. In that case, you need an interpreter.
+title: New_title
+description: New_description_for_test_HW
+content: content_content_content_content_content_content_content_content_content_content_
 
 u_name: Ivan
 u_email: bbabkova4@gmail.com
